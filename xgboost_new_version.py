@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun May  5 09:58:24 2019
-
-@author: juangabriel
-"""
-
 # XGBoost
 # Las instrucciones de instalación se pueden consultar en http://xgboost.readthedocs.io/en/latest/build.html
 
